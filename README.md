@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Éric Seles Lourenço 👋
 
-<!--
-**EricSL07/EricSL07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web.
+- 🌱 Estou aprendendo mais sobre React e Node.js.
+- 👯 Estou procurando colaborar em projetos open source.
 
-Here are some ideas to get you started:
+## Meus Projetos
+- Meu Projeto de Portfólio
+- Aplicativo To-Do List
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- 📫 Como me encontrar: ericseles@alunos.utfpr.edu.br
+- 
