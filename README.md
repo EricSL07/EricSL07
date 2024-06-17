@@ -5,9 +5,8 @@
 - 🌱 Estou aprendendo mais sobre React e Node.js.
 - 👯 Estou procurando colaborar em projetos open source.
 
-## Meus Projetos
-- Meu Projeto de Portfólio
-- Aplicativo To-Do List
+## Especialidades 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricSL07&layout=compact&bg_color=000&border_color=b0e0e6&title_color=b0e0e6&text_color=FFF)
 
 ## Contato
 - 📫 Como me encontrar: ericseles@alunos.utfpr.edu.br
