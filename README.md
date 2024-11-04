@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo mais sobre React e Node.js.
 - 👯 Estou procurando colaborar em projetos open source.
 - Entusiasta na área de Cybersecurity focado em Pentest.
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1726705" style='border:none;'></iframe>
+- https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1726705
 
 ## Especialidades 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricSL07&layout=compact&bg_color=000&border_color=b0e0e6&title_color=b0e0e6&text_color=FFF)
