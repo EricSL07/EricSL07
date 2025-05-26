@@ -1,9 +1,6 @@
 # Olá, eu sou Éric Seles Lourenço 👋
 
 ## Sobre mim
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web.
-- 🌱 Estou aprendendo mais sobre React e Node.js.
-- 👯 Estou procurando colaborar em projetos open source.
 - Entusiasta na área de Cybersecurity focado em Pentest.
 - https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1726705
 
