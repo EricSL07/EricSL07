@@ -5,7 +5,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/EricSel.png" alt="Your Image Badge" />
 
 ## Especialidades 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricSL07&layout=compact&bg_color=000&border_color=b0e0e6&title_color=b0e0e6&text_color=FFF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricSL07&layout=compact&theme=tokyonight" />
 
 ## Contato
 - [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ericseles@alunos.utfpr.edu.br)
