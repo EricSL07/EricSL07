@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - Entusiasta na área de Cybersecurity;
-- https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1726705.
+<img src="https://tryhackme-stats.vercel.app/api/user/v1?userPublicId=1726705" alt="TryHackMe Stats">
 
 ## Especialidades 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricSL07&layout=compact&bg_color=000&border_color=b0e0e6&title_color=b0e0e6&text_color=FFF)
