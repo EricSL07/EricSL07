@@ -1,0 +1,38 @@
+name: Update GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza a imagem automaticamente todo dia à meia-noite
+  workflow_dispatch: # Permite rodar a Action manualmente sempre que quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para o robô salvar as imagens no seu repositório
+    steps:
+      - uses: actions/checkout@v4
+
+      # 1. Gera o Card de Estatísticas
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
+          # Você pode trocar o tema 'dark' pelo que você preferir
+
+      # 2. Gera o Card de Linguagens (Apague este bloco se não for usar)
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+
+      # 3. Salva as imagens criadas na pasta "profile/" do seu repositório
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza imagens do GitHub Stats" || exit 0
+          git push
