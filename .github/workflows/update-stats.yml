@@ -18,15 +18,20 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
-          # Você pode trocar o tema 'dark' pelo que você preferir
+          # Adicionamos o count_private=true aqui:
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&count_private=true
+        # Adicionamos o Secret aqui embaixo:
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_STATS }}
 
       # 2. Gera o Card de Linguagens (Apague este bloco se não for usar)
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&count_private=true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_STATS }}
 
       # 3. Salva as imagens criadas na pasta "profile/" do seu repositório
       - name: Commit and push changes
