@@ -1,6 +1,6 @@
 # Olá, eu sou o Éric Seles Lourenço 👋
 
-Sou estudante de Ciência da Computação (6° período) na Universidade Tecnológica Federal do Paraná (UTFPR). Sou apaixonado por entender como as coisas funcionam por debaixo dos panos, com foco principal na interseção entre **Desenvolvimento** e **Cibersegurança**. 
+Sou estudante de Ciência da Computação (6° período) na Universidade Tecnológica Federal do Paraná (UTFPR). Sou apaixonado por estudar e aprender novas tecnologias, com foco principal na interseção entre **Desenvolvimento** e **Cibersegurança**. Futuro DevSecOps.
 
 ## Sobre mim
 - Estudando Ciência da Computação e buscando minha primeira oportunidade como Desenvolvedor.
